@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://etateahu.github.io/Eke/sitemap_index.txt
+Sitemap: https://etateahu.github.io/Kgv/sitemap_index.txt
+Sitemap: https://etateahu.github.io/PlQ/sitemap_index.txt
+Sitemap: https://etateahu.github.io/ciE/sitemap_index.txt
